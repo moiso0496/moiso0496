@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moisés Fallas</h1>
-<h3 align="center">I'm a coding passionate guy from Costa Rica, I'm 26 years old, currently working on Kyndryl as a Test Automation Engineer. I have more than 5 years of experience on the IT Business, more than 2 years on Software Development and Test Driven Development frameworks. I love helping people with technical issues and code challenges. Feel free to reach out if you like!</h3>
+<h3 align="center">I'm a coding passionate guy from Costa Rica, I'm 26 years old, currently working at Microsoft  as a Software Engineer. I have more than 5 years of experience on the IT Business, more than 2 years on Software Development and Test Driven Development frameworks. I love helping people with technical issues and code challenges. Feel free to reach out if you like!</h3>
 
 - 🔭 I’m currently working on [Formula 1 Drivers and Results API](https://github.com/moiso0496/formula1-api)
 
